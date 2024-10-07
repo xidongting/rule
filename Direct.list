@@ -1,6 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+# 自定义追加
+DOMAIN-SUFFIX,pool.ntp.org
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
