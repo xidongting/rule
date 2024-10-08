@@ -3,6 +3,7 @@
 # MyList
 # 自定义追加
 DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-KEYWORD,m-team
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
